@@ -1,4 +1,4 @@
-# : Data Ingestion from S3 to RDS with Fallback to AWS Glue using Dockerized Python Application
+# Data Ingestion from S3 to RDS with Fallback to AWS Glue using Dockerized Python Application
 
 ## Project Overview
 
